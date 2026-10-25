@@ -10,8 +10,8 @@ I'm continuously expanding my expertise in backend engineering, cloud technologi
 
 ## Experience
 
-- **Intern — Ministry of Communications**
-  - Gained hands-on experience working with real-world software projects and development environments.
+- **Internship — Ministry of Communications**
+  - Gained hands-on experience working on software development tasks and real-world project requirements.
 
 ## Education & Training
 
@@ -59,15 +59,22 @@ Git, GitHub, API Integration, Database Design, Software Architecture
 
 ## Featured Projects — CV Projects
 
-This section contains the main projects featured in my CV, demonstrating my practical experience in software development, backend engineering, full-stack development, and DevOps.
+A collection of my main software engineering projects, showcasing my practical experience in full-stack development, backend engineering, frontend development, and application deployment.
 
-Explore the repositories to see the implementation details, technologies, and documentation for each project.
+1. **[Bidzz_NEW](https://github.com/Mohamedd-Wagdii/Bidzz_NEW)** — Full-Stack Auction Platform
+2. **[Full_Stack_E_Commerce](https://github.com/Mohamedd-Wagdii/Full_Stack_E_Commerce-)** — E-Commerce Application
+3. **[Production_Hotel_System](https://github.com/Mohamedd-Wagdii/Production_Hotel_System)** — Hotel Management System
+4. **[React-Movie-Website](https://github.com/Mohamedd-Wagdii/React-Movie-Website)** — React Frontend Application
+5. **[Angular-Movie-Website](https://github.com/Mohamedd-Wagdii/Angular-Movie-Website)** — Angular Frontend Application
 
 ## DevOps & Cloud Projects
 
-A dedicated collection of projects focused on cloud infrastructure, DevOps practices, automation, CI/CD, containerization, and AWS.
+A dedicated section for my DevOps and Cloud engineering work, focusing on infrastructure automation, containerization, CI/CD pipelines, and cloud deployment.
 
-Explore these repositories to see my practical implementation of DevOps and cloud technologies.
+1. **[DevOps_Final_Project](https://github.com/Mohamedd-Wagdii/DevOps_Final_Project)** — DevOps, Cloud Infrastructure, and CI/CD
+2. **[Production_Hotel_System](https://github.com/Mohamedd-Wagdii/Production_Hotel_System)** — Application Deployment and Production Workflows
+
+Explore these repositories to see the implementation details, technologies, and project documentation.
 
 ## Connect With Me
 

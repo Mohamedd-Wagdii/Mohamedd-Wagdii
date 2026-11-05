@@ -10,7 +10,7 @@ I'm continuously expanding my expertise in backend engineering, cloud technologi
 
 ## Experience
 
-- **Internship — Ministry of Communications**
+- **Ministry of Communications**
   - Gained hands-on experience working on software development tasks and real-world project requirements.
 
 ## Education & Training

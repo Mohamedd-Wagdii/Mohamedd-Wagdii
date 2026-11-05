@@ -28,13 +28,13 @@ I'm continuously expanding my expertise in backend engineering, cloud technologi
 ## Technical Skills
 
 **Programming Languages**  
-JavaScript, TypeScript, Python, SQL
+JavaScript, TypeScrip, SQL
 
 **Frontend Development**  
-React.js, HTML5, CSS3, Bootstrap
+React.js, Angular, HTML5, CSS3, Bootstrap
 
 **Backend Development**  
-Node.js, Express.js, FastAPI, RESTful APIs, Authentication & Authorization
+Node.js, Express.js, FastAPI (Python), RESTful APIs, Authentication & Authorization
 
 **Databases**  
 MongoDB, PostgreSQL, Oracle
